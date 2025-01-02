@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik K Manoj</h1>
-<h3 align="center">A passionate iOS developer from India</h3>
+<h3 align="center">Senior iOS Engineer with 7 years of experience in developing iOS applications that can scale by following design principles, patterns and practices.</h3>
 
 - 🌱 I’m currently learning **SwiftUI**
 
